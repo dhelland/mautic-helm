@@ -11,6 +11,10 @@ image:
 
 imagePullSecrets: []
 
+volume:
+  size: "1Gi"
+  storageClass: ""
+
 service:
   type: ClusterIP
   port: 80

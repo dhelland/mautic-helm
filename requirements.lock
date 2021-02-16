@@ -1,6 +1,6 @@
 dependencies:
 - name: mysql
-  repository: https://kubernetes-charts.storage.googleapis.com
-  version: 1.3.1
-digest: sha256:5aa0cdc2834abf1d7e3122a952b45bd1f644ef1a2dec88ac81bad371c8ade086
-generated: "2019-08-26T23:28:02.518635+05:00"
+  repository: https://helm.wso2.com
+  version: 1.6.9
+digest: sha256:f5313d398ce2797adad715cecad54e6ef07b4277e7a65ffcda68d4eee2f36ea6
+generated: 2021-02-05T15:09:10.166388742Z
